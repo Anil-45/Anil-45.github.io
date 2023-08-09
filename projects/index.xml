@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Anil Reddy</title>
+    <link>https://anil-45.github.io/projects/</link>
+    <description>Recent content in Projects on Anil Reddy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Aug 2023 15:32:00 +0700</lastBuildDate><atom:link href="https://anil-45.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Faulty Wafer Detection</title>
+      <link>https://anil-45.github.io/projects/faulty-wafer/</link>
+      <pubDate>Wed, 09 Aug 2023 15:32:00 +0700</pubDate>
+      
+      <guid>https://anil-45.github.io/projects/faulty-wafer/</guid>
+      <description>In electronics, a wafer (also called a slice or substrate) is a thin slice of semiconductor used for the fabrication of integrated circuits. The goal is to build a machine learning model which predicts whether a wafer needs to be replaced or not (i.e., whether it is working or not) based on the inputs from various sensors. There are two classes: +1 and -1.
++1 means that the wafer is in a working condition and it doesn’t need to be replaced.</description>
+    </item>
+    
+    <item>
+      <title>Image Crawler</title>
+      <link>https://anil-45.github.io/projects/image-crawler/</link>
+      <pubDate>Wed, 09 Aug 2023 15:22:00 +0700</pubDate>
+      
+      <guid>https://anil-45.github.io/projects/image-crawler/</guid>
+      <description>Multi-threaded tool to download images from the Google search engine based on the objects specified. It helps to scrape the images required for your model building, reducing the manual efforts.
+Features You can specify the output directory Runs in both headless and head mode You can specify the number of images to download You can specify the maximum number of google suggestions to use You can specify the maximum workers to use for ThreadPool Screenshots Setup Clone this repo using</description>
+    </item>
+    
+    <item>
+      <title>Product Review Scraper</title>
+      <link>https://anil-45.github.io/projects/product-review-scraper/</link>
+      <pubDate>Wed, 09 Aug 2023 14:22:00 +0700</pubDate>
+      
+      <guid>https://anil-45.github.io/projects/product-review-scraper/</guid>
+      <description>This project scrapes the reviews of the products from Flipkart and stores them in a database to avoid scraping for the same product at a later point in time.
+Features Provides user interface Interactive graphical representation of ratings Screenshots Setup Clone this repo using
+git clone https://github.com/Anil-45/ReviewScraper.git Install the required modules using
+pip install -r Requirements.txt Usage To use SQL database, generate a config file using generate_config.py.
+Open generate_config.py and edit host, username and password.</description>
+    </item>
+    
+  </channel>
+</rss>
